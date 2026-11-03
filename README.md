@@ -67,9 +67,10 @@ Monitored local administrative modifications in Event Viewer to detect unauthori
 ---
 
 ## 💡 Key Skills Learned & Resume Highlights
-* **Log Analysis & Threat Triage:** Investigated Windows Security Event logs and telemetry using Event Viewer and Sysmon.
-* **Core Event ID Mastery:** Analyzed key authentication and account management Event IDs (`4624`, `4625`, `4720`).
-* **Windows Security Monitoring:** Identified anomalies in logon types, failure reasons, and administrative user modifications.
 
-> **Resume Bullet:**  
-> *Analyzed Windows Security Event Logs and investigated authentication-related events using Event Viewer and Sysmon.*
+* **Log Analysis & Threat Triage:** Investigated Windows Security Event Logs and authentication telemetry using Event Viewer and PowerShell.
+* **Core Event ID Mastery:** Analyzed key authentication and account management Event IDs (`4624`, `4625`, `4720`, `4104`).
+* **Windows Security Monitoring:** Identified anomalies in logon types, authentication failure reasons, and administrative user account modifications.
+
+**Resume Bullet:**
+> *Analyzed Windows Security Event Logs and investigated authentication-related security events using Event Viewer and PowerShell.*
